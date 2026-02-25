@@ -1,0 +1,7 @@
+Download these Libraries
+requests
+datetime
+pandas
+matplotlab
+
+for example download in terminal/commandprompt using pip install requests
